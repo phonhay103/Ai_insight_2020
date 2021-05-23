@@ -17,4 +17,4 @@
 15. Image Domain Conversion
 16. Yolo
 
-![alt text](https://github.com/phonhay103/aivietnam_ai_insight_2020/blob/main/Report.png)
+![Report](https://github.com/phonhay103/aivietnam_ai_insight_2020/blob/main/Report.png)
