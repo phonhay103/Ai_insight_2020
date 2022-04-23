@@ -17,4 +17,7 @@
 15. Image Domain Conversion
 16. Yolo
 
+## Video
+https://youtube.com/playlist?list=PLU2ApWp_eKA4MxfJzsALiHwOsmgPPnh_u
+
 ![Report](https://github.com/phonhay103/aivietnam_ai_insight_2020/blob/main/Report.png)
